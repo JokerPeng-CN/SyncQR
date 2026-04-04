@@ -128,7 +128,7 @@ cloudflared tunnel --url http://localhost:7898
    - 确认点了 B：`currentRole` 必须为 `'B'`
 
 3. **iPhone 扫不到**
-   - 建议用 `Chrome/Edge`（若可）或尽量使用 `https/localhost`
+   - 建议用 `Chrome/Edge`（若可）或尽量使用 `https协议`
    - 让二维码占画面更大，光线更均匀
 
 ## 后续可选增强
